@@ -1,0 +1,62 @@
+/*Hoja de estilos personal*/
+  
+  /* Estilo mediante ID en HTML*/
+  #ColorFIMEID {
+    color: #c12f2f;
+    font-size: 20px;
+  }
+
+.navbarcolor{
+    background-color: #021859;
+}
+
+.fondo{
+    background-color: #F2F2F2;
+}
+
+/*Hover de los botones*/
+.social-icons .botoninsta:hover{
+    background-color: #D936A0; 
+  }
+
+.social-icons .botontwitter:hover{
+    background-color: #05AFF2;
+  }
+
+.social-icons .botonface:hover{
+    background-color: #2372D9;
+  }
+  
+.social-icons .botongit:hover{
+    background-color: #56297C;
+  }
+
+.social-icons .botonwhat:hover{
+    background-color: #10E376;
+  }
+
+.googlefont{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 6rem;
+}
+
+.subfont{
+  font-family: 'Bebas Neue', cursive;
+}
+
+.importantetext{
+  color: #384773;
+}
+
+.subtema{
+  color: #020659;
+}
+
+.contenido{
+  color: #011126;
+  text-align: justify;
+}
+
+.pie{
+    background-color: #021859;
+}
