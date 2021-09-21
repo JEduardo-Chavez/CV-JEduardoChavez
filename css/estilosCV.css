@@ -58,5 +58,29 @@
 }
 
 .pie{
-    background-color: #021859;
+    background-color: #021859 !important;
+}
+
+.bg-modulo1{
+  background-color: #3E9535 !important;
+}
+
+.bg-modulo2{
+  background-color: #2B7B3D !important;
+}
+
+.bg-modulo3{
+  background-color: #006E2E !important;
+}
+
+.bg-moduloN{
+  background-color: #435359 !important;
+}
+
+.bg-moduloN2{
+  background-color: #1F2426 !important;
+}
+
+.bg-barraN{
+  background-color: #AABFBF !important;
 }

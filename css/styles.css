@@ -432,6 +432,10 @@ small,
   font-weight: 400;
 }
 
+.bg-barra{
+  background-color: #021859 !important;
+}
+
 mark,
 .mark {
   padding: 0.2em;
